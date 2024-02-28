@@ -1,0 +1,4 @@
+name: NewYearFirework
+version: '${version}'
+main: net.lcpu.mc.newyearfirework.NewYearFirework
+api-version: '1.20'
